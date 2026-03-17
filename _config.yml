@@ -27,11 +27,11 @@ author:
   avatar           : "profile.png"
   name             : "Minjing Luo"
   pronouns         : # example: "she/her"  
-  bio              : "ABD in Rutgers Business School. Research interests include LLM,ML,AI,AIS."
+  bio              : "ABD at Rutgers Business School. Research interests include LLM,ML,AI,AIS."
   location         : "Newark & New Brunswick, NJ"
   employer         : "Rutgers University"
   uri              : # URL
-  email            : "ml1885@rutgers.edu" 
+  email            : "ml1885@business.rutgers.edu" 
 
   # Academic websites
   academia         : # URL
